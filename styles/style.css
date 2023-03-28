@@ -13,3 +13,11 @@
     width: 100%;
     height: auto;
   }
+
+  .material-icons{
+    cursor: pointer;
+}
+
+.navbar{
+  background-color: #0d6efd;
+}
